@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(251, 251, 253);
+    font-size: 24px;
+    text-align: center;
+    background-color: #ff3c00;
+    padding: 2%;
+    border: 3px solid rgb(3, 3, 3);
+}
+li{
+    color: #080808;
+    background-color: rgb(245, 162, 203);
+    margin: 5%;
+}
+ol{
+    color: #000;
+}
+.nn{
+    background-color: bisque;
+}
+.mm{
+    background-color: rgb(255, 157, 127);
+    color: #f0f7f1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pp{background-color: rgb(255, 38, 0);
+    color: rgb(251, 251, 253);
+}
+
